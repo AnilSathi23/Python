@@ -13,3 +13,4 @@ seaborn
 plotly
 
 
+Numpy means numerical python it is a free and open source library
